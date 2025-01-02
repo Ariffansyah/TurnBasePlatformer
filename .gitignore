@@ -1,0 +1,29 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot specific files
+.godot/
+export_presets.cfg
+icon.png.import
+*.import
+*.tmp
+
+# Godot exported files
+*.pck
+*.exe
+*.x86_64
+*.html
+*.wasm
+*.js
+
+# System specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
